@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ShadowStrike.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\ShadowStrikeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\UE4Editor\Development\ShadowStrike\ShadowStrike.cpp.obj"
+"C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\UE4Editor\Development\ShadowStrike\ShadowStrikeCharacter.cpp.obj"
+"C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\UE4Editor\Development\ShadowStrike\ShadowStrikeGameMode.cpp.obj"
+"C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\UE4Editor\Development\ShadowStrike\ShadowStrike.init.gen.cpp.obj"
+"C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\UE4Editor\Development\ShadowStrike\ShadowStrikeCharacter.gen.cpp.obj"
+"C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\UE4Editor\Development\ShadowStrike\ShadowStrikeGameMode.gen.cpp.obj"
+"C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\UE4Editor\Development\ShadowStrike\Default.rc2.res"
+/OUT:"C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\UE4Editor\Development\ShadowStrike\UE4Editor-ShadowStrike.lib"

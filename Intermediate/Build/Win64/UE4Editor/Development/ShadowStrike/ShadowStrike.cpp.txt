@@ -1,0 +1,2 @@
+C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Intermediate\Build\Win64\UE4Editor\Development\ShadowStrike\Definitions.ShadowStrike.h
+C:\Users\finni\OneDrive\Documents\Unreal Projects\ShadowStrike\Source\ShadowStrike\ShadowStrike.h

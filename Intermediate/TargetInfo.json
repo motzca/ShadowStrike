@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShadowStrike",
+			"Path": "C:\\Users\\finni\\OneDrive\\Documents\\Unreal Projects\\ShadowStrike\\Source\\ShadowStrike.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShadowStrikeEditor",
+			"Path": "C:\\Users\\finni\\OneDrive\\Documents\\Unreal Projects\\ShadowStrike\\Source\\ShadowStrikeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

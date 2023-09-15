@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShadowStrike.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F5DC8EA6-B728-4D60-958F-4189CE79B807}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShadowStrike.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShadowStrikeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1494189A-73C7-42B2-AA40-079E0BFC29DD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShadowStrike">
+      <UniqueIdentifier>{303ED684-028F-40F6-A492-B434EACAC8B8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShadowStrike\ShadowStrike.Build.cs">
+      <Filter>Source\ShadowStrike</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShadowStrike\ShadowStrike.cpp">
+      <Filter>Source\ShadowStrike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShadowStrike\ShadowStrike.h">
+      <Filter>Source\ShadowStrike</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShadowStrike\ShadowStrikeCharacter.cpp">
+      <Filter>Source\ShadowStrike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShadowStrike\ShadowStrikeCharacter.h">
+      <Filter>Source\ShadowStrike</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShadowStrike\ShadowStrikeGameMode.cpp">
+      <Filter>Source\ShadowStrike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShadowStrike\ShadowStrikeGameMode.h">
+      <Filter>Source\ShadowStrike</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
