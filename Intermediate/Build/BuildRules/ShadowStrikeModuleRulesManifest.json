@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\finni\\OneDrive\\Documents\\Unreal Projects\\ShadowStrike\\Source\\ShadowStrike\\ShadowStrike.Build.cs",
-		"C:\\Users\\finni\\OneDrive\\Documents\\Unreal Projects\\ShadowStrike\\Source\\ShadowStrike.Target.cs",
-		"C:\\Users\\finni\\OneDrive\\Documents\\Unreal Projects\\ShadowStrike\\Source\\ShadowStrikeEditor.Target.cs"
+		"C:\\Users\\Ben\\Documents\\GitHub\\ShadowStrike\\Source\\ShadowStrike\\ShadowStrike.Build.cs",
+		"C:\\Users\\Ben\\Documents\\GitHub\\ShadowStrike\\Source\\ShadowStrike.Target.cs",
+		"C:\\Users\\Ben\\Documents\\GitHub\\ShadowStrike\\Source\\ShadowStrikeEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
